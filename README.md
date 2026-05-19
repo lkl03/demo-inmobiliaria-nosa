@@ -1,2 +1,7 @@
-# demo-inmobiliaria-nosa
-Demo web para Inmobiliaria Nosa — diseñada por eterlab.
+# Inmobiliaria Nosa
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
